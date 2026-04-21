@@ -1,1 +1,43 @@
-
+{
+  "title": "IELTS Speaking Test - Environment & Technology",
+  "type": "speaking",
+  "parts": [
+    {
+      "part": 1,
+      "title": "Part 1 - Introduction and Interview",
+      "questions": [
+        "Let's talk about where you live. Do you live in a house or an apartment?",
+        "What do you like most about your neighborhood?",
+        "How long have you lived there?",
+        "What kind of changes would you like to see in your area?",
+        "Now let's talk about technology. How often do you use a computer?",
+        "What do you mainly use your computer or smartphone for?",
+        "Do you think technology has made our lives easier? Why or why not?",
+        "What new technology would you like to learn about?"
+      ]
+    },
+    {
+      "part": 2,
+      "title": "Part 2 - Long Turn (Cue Card)",
+      "cueCard": "Describe an environmental problem in your country. You should say: what the problem is, what causes it, what effects it has, and explain what can be done to solve this problem.",
+      "prompts": [
+        "What the problem is",
+        "What causes it",
+        "What effects it has",
+        "What can be done to solve it"
+      ]
+    },
+    {
+      "part": 3,
+      "title": "Part 3 - Discussion",
+      "questions": [
+        "What are the main environmental problems facing the world today?",
+        "Do you think individuals can make a difference in protecting the environment?",
+        "Should governments do more to address environmental issues? In what ways?",
+        "How has technology impacted the environment, both positively and negatively?",
+        "Do you think future generations will face more serious environmental challenges?",
+        "What role should businesses play in environmental protection?"
+      ]
+    }
+  ]
+}
