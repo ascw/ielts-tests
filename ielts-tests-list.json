@@ -1,0 +1,44 @@
+{
+  "libraryName": "My IELTS Test Library 2026",
+  "lastUpdated": "2026-04-21",
+  "tests": [
+    {
+      "title": "Reading - Academic Module Practice Test 1",
+      "type": "reading",
+      "url": "https://raw.githubusercontent.com/ascw/ielts-tests/main/tests/reading-test1.json",
+      "description": "3 passages with 40 questions - Mix of MCQ, T/F/NG, fill-blanks, matching, and summary completion"
+    },
+    {
+      "title": "Listening - Full Practice Test with Audio",
+      "type": "listening",
+      "url": "https://raw.githubusercontent.com/ascw/ielts-tests/main/tests/listening-full.json",
+      "description": "4 sections with real IELTS-style audio recordings"
+    },
+    {
+      "title": "Speaking - Part 1, 2, 3 Environment Topic",
+      "type": "speaking",
+      "url": "https://raw.githubusercontent.com/ascw/ielts-tests/main/tests/speaking-environment.json",
+      "driveLink": "https://1drv.ms/f/YOUR-ONEDRIVE-FOLDER-LINK",
+      "description": "Complete speaking test covering environmental issues and sustainability"
+    },
+    {
+      "title": "Writing - Academic Task 1 & Task 2",
+      "type": "writing",
+      "url": "https://raw.githubusercontent.com/ascw/ielts-tests/main/tests/writing-academic1.json",
+      "driveLink": "https://1drv.ms/f/YOUR-ONEDRIVE-FOLDER-LINK",
+      "description": "Chart analysis (Task 1) + Essay on education (Task 2)"
+    },
+    {
+      "title": "Reading - Cambridge IELTS Style Test",
+      "type": "reading",
+      "url": "https://raw.githubusercontent.com/ascw/ielts-tests/main/tests/reading-cambridge.json",
+      "description": "Passages on technology, history, and science with authentic question types"
+    },
+    {
+      "title": "Listening - YouTube Video Practice",
+      "type": "listening",
+      "url": "https://raw.githubusercontent.com/ascw/ielts-tests/main/tests/listening-youtube.json",
+      "description": "Practice test using embedded YouTube videos as audio source"
+    }
+  ]
+}
