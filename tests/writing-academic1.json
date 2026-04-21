@@ -1,1 +1,16 @@
-
+{
+  "title": "IELTS Writing Test - Academic Module",
+  "type": "writing",
+  "tasks": [
+    {
+      "task": 1,
+      "title": "Task 1 - Chart Analysis (20 minutes recommended)",
+      "prompt": "The bar chart below shows the percentage of Australian men and women in different age groups who did regular physical activity in 2010.\n\nSummarize the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.\n\n[Note: In a real test, a chart image would be shown here. For this practice, imagine a bar chart showing:\n- Age groups: 15-24, 25-34, 35-44, 45-54, 55-64, 65+\n- Men's percentages: 52.8%, 42.2%, 39.5%, 43.1%, 45.1%, 46.7%\n- Women's percentages: 47.7%, 48.9%, 52.5%, 53.3%, 53.0%, 47.1%]"
+    },
+    {
+      "task": 2,
+      "title": "Task 2 - Essay (40 minutes recommended)",
+      "prompt": "Some people believe that universities should provide graduates with the knowledge and skills needed in the workplace. Others think that the true function of a university should be to give access to knowledge for its own sake, regardless of whether the course is useful to an employer.\n\nWhat, in your opinion, should be the main function of a university?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words."
+    }
+  ]
+}
