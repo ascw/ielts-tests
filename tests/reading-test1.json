@@ -1,0 +1,107 @@
+{
+  "title": "IELTS Reading Practice Test 1",
+  "type": "reading",
+  "duration": 3600,
+  "sections": [
+    {
+      "title": "Passage 1",
+      "passageTitle": "The History of Coffee",
+      "passageSource": "Adapted from The Coffee Encyclopedia, 2024",
+      "passage": "<p>Coffee is one of the world's most popular beverages, with over 400 billion cups consumed each year. The coffee plant, scientifically known as Coffea, originated in Ethiopia. According to legend, a goat herder named Kaldi discovered coffee when he noticed his goats became energetic after eating berries from a certain tree.</p><p>From Ethiopia, coffee spread to the Arabian Peninsula. By the 15th century, coffee was being grown in Yemen, and by the 16th century, it had reached Persia, Egypt, Syria, and Turkey. Coffee houses, known as 'qahveh khaneh', began appearing in cities across the Middle East. These establishments became important centers for social interaction and intellectual exchange.</p><p>Coffee arrived in Europe in the 17th century, initially met with suspicion by some who called it the 'bitter invention of Satan.' However, Pope Clement VIII tasted it and gave it his approval. Coffee houses quickly became popular across Europe, particularly in England, Austria, France, Germany, and Holland. They became important meeting places for artists, intellectuals, and political activists.</p><p>Today, coffee is a multi-billion dollar industry employing millions of people worldwide. Brazil is the world's largest coffee producer, followed by Vietnam and Colombia. The coffee industry faces several challenges, including climate change, which threatens traditional growing regions, and concerns about fair trade and sustainable farming practices.</p>",
+      "questions": [
+        {
+          "id": 1,
+          "type": "mcq",
+          "question": "According to the passage, how many cups of coffee are consumed globally each year?",
+          "options": [
+            "A. Over 400 million",
+            "B. Over 400 billion",
+            "C. Over 400 trillion",
+            "D. The passage does not specify"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 2,
+          "type": "fill_blank",
+          "question": "The coffee plant is scientifically known as _____.",
+          "answer": "Coffea"
+        },
+        {
+          "id": 3,
+          "type": "true_false_ng",
+          "question": "Coffee was initially welcomed in Europe without any suspicion.",
+          "answer": "FALSE"
+        },
+        {
+          "id": 4,
+          "type": "true_false_ng",
+          "question": "Pope Clement VIII approved of coffee after tasting it.",
+          "answer": "TRUE"
+        },
+        {
+          "id": 5,
+          "type": "fill_blank",
+          "question": "The world's largest coffee producer is _____.",
+          "answer": ["Brazil", "brazil"]
+        },
+        {
+          "id": 6,
+          "type": "matching",
+          "question": "Match each country/region with the correct information.",
+          "items": [
+            "A. Ethiopia",
+            "B. Yemen",
+            "C. Brazil"
+          ],
+          "options": [
+            "i. Largest coffee producer",
+            "ii. Origin of coffee plant",
+            "iii. Where coffee was grown by 15th century"
+          ],
+          "answers": {
+            "A": "ii",
+            "B": "iii",
+            "C": "i"
+          }
+        },
+        {
+          "id": 7,
+          "type": "summary_completion",
+          "title": "Summary: Coffee's Journey",
+          "summary": "Coffee originated in {{1}} and was discovered by a goat herder named {{2}}. By the {{3}} century, it had spread to Yemen. In Europe, coffee houses became important meeting places for {{4}}, intellectuals, and political activists.",
+          "answers": {
+            "1": "Ethiopia",
+            "2": "Kaldi",
+            "3": "15th",
+            "4": "artists"
+          }
+        },
+        {
+          "id": 8,
+          "type": "mcq",
+          "question": "What challenge does the coffee industry face according to the passage?",
+          "options": [
+            "A. Lack of workers",
+            "B. Climate change threatening growing regions",
+            "C. Decreasing demand",
+            "D. Government regulations"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 9,
+          "type": "true_false_ng",
+          "question": "Coffee houses in the Middle East were called 'qahveh khaneh'.",
+          "answer": "TRUE"
+        },
+        {
+          "id": 10,
+          "type": "fill_blank",
+          "question": "Vietnam is the _____ largest coffee producer in the world.",
+          "answer": ["second", "2nd"]
+        }
+      ]
+    }
+  ]
+}
